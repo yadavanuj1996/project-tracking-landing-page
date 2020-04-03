@@ -55,6 +55,7 @@ body {
      background-image: none;
   outline: 0;
   box-shadow: none;
+    text-align:center !important;
   }
  
   .navbar-collapse {
@@ -114,6 +115,7 @@ body {
      background-image: none;
   outline: 0;
   box-shadow: none;
+    text-align:center !important;
   }
   .nav-link:active,
   .nav-link:hover {
@@ -174,6 +176,7 @@ body {
      background-image: none;
   outline: 0;
   box-shadow: none;
+    text-align:center !important;
   }
   .nav-link:active,
   .nav-link:hover {
